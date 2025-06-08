@@ -59,9 +59,14 @@ I'm a passionate developer who loves building cool projects and solving real-wor
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wunnathaw)
 -->
 
+---
 
+![Profile Views](https://komarev.com/ghpvc/?username=wunnathaw&color=blueviolet)
+
+
+<!--
 ⭐️ From 
 [Wunna Thaw](https://github.com/wunnathaw)
-<!--
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/wunnathaw)
 -->
